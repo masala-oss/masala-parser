@@ -1,0 +1,19 @@
+{
+  "name": "@masala/email",
+  "version": "1.0.0",
+  "description": "Email parser with masala",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "masala",
+    "date",
+    "parser"
+  ],
+  "author": "Nicolas Zozol",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@masala/parser": "^0.8.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@masala/date",
+  "version": "1.0.0",
+  "description": "Date parser with Masala Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "masala",
+    "date",
+    "parser"
+  ],
+  "author": "Nicolas Zozol",
+  "license": "GPL-3.0-or-later"
+}
