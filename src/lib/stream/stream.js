@@ -6,7 +6,7 @@
  * Licensed under the LGPL2 license.
  */
 
-import atry from '../data/try';
+import atry from '../data/try.js';
 
 /**
  * Abstract methods:

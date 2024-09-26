@@ -6,11 +6,11 @@
  * Licensed under the LGPL2 license.
  */
 
-import parser from './parser';
-import response from './response';
-import flow from './flow-bundle';
-import chars from './chars-bundle';
-import numbers from './numbers-bundle';
+import parser from './parser.js';
+import response from './response.js';
+import flow from './flow-bundle.js';
+import chars from './chars-bundle.js';
+import numbers from './numbers-bundle.js';
 
 export const C = chars;
 export const F = flow;

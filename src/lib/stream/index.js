@@ -6,10 +6,10 @@
  * Licensed under the LGPL2 license.
  */
 
-import stringStreamFactory from './stringstream';
-import arrayStreamFactory from './arraystream';
-import parserStreamFactory from './parserstream';
-import bufferedStreamFactory from './bufferedstream';
+import stringStreamFactory from './stringstream.js';
+import arrayStreamFactory from './arraystream.js';
+import parserStreamFactory from './parserstream.js';
+import bufferedStreamFactory from './bufferedstream.js';
 
 export default {
     ofString: stringStreamFactory,

@@ -6,7 +6,7 @@
  * Licensed under the LGPL2 license.
  */
 
-import jsonParser from './json/jsonparser';
+import jsonParser from './json/jsonparser.js';
 
 export default {
     jsonParser

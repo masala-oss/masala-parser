@@ -6,10 +6,10 @@
  * Licensed under the LGPL2 license.
  */
 
-import {GenLex} from '../../genlex/genlex';
+import {GenLex} from '../../genlex/genlex.js';
 
-import {F} from '../../parsec/index';
-import {C, N} from "../../parsec";
+import {F,C,N} from '../../parsec/index.js';
+
 
 //
 // Facilities

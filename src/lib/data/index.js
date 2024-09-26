@@ -6,9 +6,9 @@
  * Licensed under the LGPL2 license.
  */
 
-import option from './option';
-import atry from './try';
-import unit from './unit';
+import option from './option.js';
+import atry from './try.js';
+import unit from './unit.js';
 
 export default {
     option,

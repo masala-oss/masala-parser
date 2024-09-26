@@ -6,9 +6,9 @@
  * Licensed under the LGPL2 license.
  */
 
-import Parser, {eos} from './parser';
-import response from './response';
-import {NEUTRAL, Tuple} from "../data/tuple";
+import Parser, {eos} from './parser.js';
+import response from './response.js';
+import {NEUTRAL, Tuple} from "../data/tuple.js";
 
 // (Stream 'c -> number -> Response 'a 'c) -> Parser 'a 'c
 function parse(p) {

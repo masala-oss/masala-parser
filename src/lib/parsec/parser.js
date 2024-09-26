@@ -12,14 +12,14 @@
  * http://research.microsoft.com/en-us/um/people/daan/download/papers/parsec-paper.pdf
  */
 
-import stream from '../stream/index';
+import stream from '../stream/index.js';
 
-import option from '../data/option';
+import option from '../data/option.js';
 
 
-import response from './response';
-import unit from "../data/unit";
-import {NEUTRAL, Tuple, isTuple} from "../data/tuple";
+import response from './response.js';
+import unit from "../data/unit.js";
+import {NEUTRAL, Tuple, isTuple} from "../data/tuple.js";
 
 
 /**
