@@ -1,7 +1,7 @@
-import response from "../parsec/response";
-import {F, C, N} from "../parsec";
-import unit from "../data/unit";
-import option from "../data/option";
+import response from "../parsec/response.js";
+import {F, C, N} from "../parsec/index.js";
+import unit from "../data/unit.js";
+import option from "../data/option.js";
 
 
 export class TokenDefinition {

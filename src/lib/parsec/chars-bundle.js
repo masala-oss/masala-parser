@@ -5,8 +5,8 @@
  * Copyright (c) 2016 Didier Plaindoux
  * Licensed under the LGPL2 license.
  */
-import F from './flow-bundle';
-import {string} from './flow-bundle';
+import F from './flow-bundle.js';
+import {string} from './flow-bundle.js';
 
 const ASCII_LETTER = Symbol('ASCII');
 const OCCIDENTAL_LETTER = Symbol('OCCIDENTAL');

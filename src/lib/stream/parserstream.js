@@ -6,8 +6,8 @@
  * Licensed under the LGPL2 license.
  */
 
-import Stream from './stream';
-import option from '../data/option';
+import Stream from './stream.js';
+import option from '../data/option.js';
 
 /**
  * ParserStream stream class
